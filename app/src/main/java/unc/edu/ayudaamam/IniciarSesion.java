@@ -10,5 +10,8 @@ public class IniciarSesion extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.ly_iniciar_sesion);
+
+
+        // CABRO CTMR ME LLEGAS
     }
 }
